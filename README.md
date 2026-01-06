@@ -215,18 +215,4 @@ Company information table including:
 
 ---
 
-## 📝 Credits
-
-- **Design Reference**: [f-tpl.com](http://f-tpl.com)
-- **Fonts**: [Google Fonts](https://fonts.google.com/)
-- **Hosting**: [Vercel](https://vercel.com/)
-
----
-
-## 📄 License
-
-This project is created for educational and demonstration purposes.
-
----
-
 **[🔗 View Live Site](https://jb-connect-assignment.vercel.app/)**
